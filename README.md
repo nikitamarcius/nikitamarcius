@@ -1,16 +1,14 @@
-### Hi there 👋
+# Nikita Marcius — @nikitamarcius
 
-<!--
-**nikitamarcius/nikitamarcius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, i am CEO [@marcius-capital](https://github.com/marcius-capital), fullstack Nodejs developer. Specialize in the finance sector. Since 2020, launched Capital in close alpha testing with 74% success of trading algoritm. In secound half of 2020 won a Presidential Grant for the education of orphans programming and design as part of [@marcius-studio](https://github.com/marcius-studio).
 
-Here are some ideas to get you started:
+## My projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* [@marcius-capital](https://github.com/marcius-capital) - Cross-platform app for cryptocurrency trading
+* [@marcius-studio](https://github.com/marcius-studio) - Online studio specialised in web development
+
+
+## Get in touch
+
+* Discord: Nikita Marcius#2274
+* Telegram: [@nikitamarcius](https://ttttt.me/nikitamarcius)
