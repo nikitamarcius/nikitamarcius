@@ -7,9 +7,12 @@ Hi, i am CEO [@marcius-capital](https://github.com/marcius-capital), fullstack N
 * [@marcius-capital](https://github.com/marcius-capital) | [Website](https://marcius.capital) - Cross-platform app for cryptocurrency trading
 * [@marcius-studio](https://github.com/marcius-studio) | [Website](https://marcius.studio) - Online studio specialised in web development
 
-![banner](/banner.svg)
+<a href="mailto:hello@marcius.studio">
+<img src="/banner.svg">
+</a>
 
 ## Get in touch
 
 * Discord: Nikita Marcius#2274
 * Telegram: [@nikitamarcius](https://ttttt.me/nikitamarcius)
+* Email: [hello@marcius.studio](mailto:hello@marcius.studio)
