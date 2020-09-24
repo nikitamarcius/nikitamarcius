@@ -4,7 +4,7 @@ Hi, i am CEO [@marcius-capital](https://github.com/marcius-capital), fullstack N
 
 ## My projects
 
-* [@marcius-capital](https://github.com/marcius-capital) | [Website](https://marcius.capital) - Cross-platform app for cryptocurrency trading
+* [@marcius-capital](https://github.com/marcius-capital) | [Website](https://marcius.capital) - Financial market analysis and portfolio management
 * [@marcius-studio](https://github.com/marcius-studio) | [Website](https://marcius.studio) - Online studio specialised in web development
 
 <a href="mailto:hello@marcius.studio">
