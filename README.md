@@ -4,14 +4,18 @@ Hi, i am CEO [@marcius-capital](https://github.com/marcius-capital), fullstack N
 
 ## My projects
 
-* [@marcius-capital](https://github.com/marcius-capital) | [Website](https://marcius.capital) - Financial market analysis and portfolio management
-* [@marcius-studio](https://github.com/marcius-studio) | [Website](https://marcius.studio) - Online studio specialised in web development
+* [@marcius-capital](https://github.com/marcius-capital) | [Marcius Capital](https://marcius.capital) - Financial market analysis and portfolio management
+* [@marcius-studio](https://github.com/marcius-studio) | [Marcius Studio](https://marcius.studio) - Online studio specialised in web development
 
 <a href="mailto:hello@marcius.studio">
 <img src="/banner.svg">
 </a>
 
 ## Get in touch
+
+* [Medium.com Blog](https://medium.com/marcius-studio)
+
+## Contacts
 
 * Discord: Nikita Marcius#2274
 * Telegram: [@nikitamarcius](https://ttttt.me/nikitamarcius)
