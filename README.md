@@ -19,6 +19,7 @@ Hi, i am CEO [@marcius-capital](https://github.com/marcius-capital), fullstack N
 ## Contacts
 
 * [Discord - Nikita Marcius#2274](https://discord.com/channels/@me/321971646967840768)
-* [Telegram - @nikitamarcius](https://ttttt.me/nikitamarcius)
+* [Telegram - @nikitamarcius](https://t.me/nikitamarcius)
+* [Instagram - @nikitamarcius](https://instagram.com/nikitamarcius/)
 * [Twitter - @nikitamarcius](https://twitter.com/nikitamarcius)
 * [Email - hello@marcius.studio](mailto:hello@marcius.studio)
