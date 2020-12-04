@@ -1,6 +1,6 @@
 # Nikita Marcius | Никита Марций — @nikitamarcius
 
-Hi, i am CEO [@marcius-capital](https://github.com/marcius-capital), fullstack Nodejs developer. Specialize in the finance sector. Since 2020, launched Capital in close alpha testing with 83% success of trading algoritm in BTCUSDT market. In secound half of 2020 won a Presidential Grant for the education of orphans programming and design as part of [@marcius-studio](https://github.com/marcius-studio).
+Hi, i am CEO [@marcius-capital](https://github.com/marcius-capital), fullstack Nodejs developer. Specialize in the finance sector. Since 2020, launched Capital in close alpha testing with 83% success of trading algoritm in BTCUSDT market. In secound half of 2020 won a [Presidential Grant](https://xn--80afcdbalict6afooklqi5o.xn--p1ai/public/application/item?id=558E50BC-ABF6-4142-8B88-6E4E59F001BC) for the education of orphans programming and design as part of [@marcius-studio](https://github.com/marcius-studio).
 
 ## My projects
 
