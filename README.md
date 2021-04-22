@@ -35,5 +35,5 @@ ___
 
 
 <a href="//marcius.studio" target="_blank">
-<img src="/banner.svg">
+<img src="/marcius-studio-banner.jpg">
 </a>
