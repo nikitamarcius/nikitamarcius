@@ -28,7 +28,7 @@ Winner a [Presidential Grant](//xn--80afcdbalict6afooklqi5o.xn--p1ai/public/appl
 ___
 
 <a href="//polygonum.online" target="_blank">
-<img src="/polygonum-online-banner.png">
+<img src="/polygonum-online-banner.jpg">
 </a>
 
 ___
